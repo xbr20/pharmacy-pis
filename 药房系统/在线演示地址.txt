@@ -1,0 +1,8 @@
+药房信息系统（PIS）在线演示
+
+地址：https://pharmacy-pis.app.workbuddy.host/
+账号：admin
+口令：admin123
+
+说明：全部为模拟数据，不含任何真实患者／顾客信息。
+生成时间：2026-10-18 22:30
